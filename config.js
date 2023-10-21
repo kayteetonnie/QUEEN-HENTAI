@@ -47,19 +47,19 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '💝 Kaytee Tonnie 💝'
+global.botname = '💝 Queen Hentai 💝'
 global.premium = 'true'
-global.packname = '💝 Kaytee Tonnie 💝 Created By 💝 Kaytee Tonnie²⁰²³ 💝' 
-global.author = '💝 Kaytee Official²⁰²³ 💝' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/k_a_y_t_e_e/
+global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
+global.author = '💝 Dinuwa Official²⁰²³ 💝' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Dinuwa Official²⁰²³\n' 
 global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
 global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
-global.fgyt = 'https://chat.whatsapp.com/L4OsDq5dZ7zL0pIRLQsthP'
-global.fgpyp = 'https://chat.whatsapp.com/L4OsDq5dZ7zL0pIRLQsthP'
-global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
+global.fgyt = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
+global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
+global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg'  
 
 
-global.wait = '*💝 _Waiting Bro Uploading by 💝 Kaytee Tonnie 💝..._*'
+global.wait = '*💝 _Waiting Bro Uploading by 💝 Queen Hentai 💝..._*'
 global.rwait = '🇱🇰'
 global.dmoji = '🤣'
 global.done = '👍'
