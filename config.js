@@ -37,7 +37,7 @@ global.APIs = { // API Prefix
   fgmods: 'https://api-fgmods.ddns.net'
 }
 global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey'
+  // 'https://website': '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'
   'https://api.xteam.xyz': 'd90a9e986e18778b',
   'https://api.lolhuman.xyz': '85faf717d0545d14074659ad',
   'https://api.neoxr.my.id': `${keysneoxr}`,	
@@ -47,19 +47,19 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '💝 Queen Hentai 💝'
+global.botname = '@254707382636 kaytee tonnie'
 global.premium = 'true'
-global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
-global.author = '💝 Dinuwa Official²⁰²³ 💝' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Dinuwa Official²⁰²³\n' 
-global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
+global.packname = '@254707382636 kaytee tonnie' 
+global.author = '@254707382636 kaytee tonnie' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/k_a_y_t_e_e\n' 
+global.dygp = 'https://chat.whatsapp.com/HkG1p6Pq1McG7XQZWjpbHw'
 global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
-global.fgyt = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
+global.fgyt = 'https://chat.whatsapp.com/HkG1p6Pq1McG7XQZWjpbHw'
+global.fgpyp = 'https://chat.whatsapp.com/HkG1p6Pq1McG7XQZWjpbHw'
 global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg'  
 
 
-global.wait = '*💝 _Waiting Bro Uploading by 💝 Queen Hentai 💝..._*'
+global.wait = '*💝 _Waiting Bro Uploading by @254707382636 kaytee tonnie'
 global.rwait = '🇱🇰'
 global.dmoji = '🤣'
 global.done = '👍'
@@ -67,7 +67,7 @@ global.error = '👎'
 global.xmoji = '🫶' 
 
 global.multiplier = 69 
-global.maxwarn = '3' // máxima advertencias
+global.maxwarn = '5' // máxima advertencias
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
